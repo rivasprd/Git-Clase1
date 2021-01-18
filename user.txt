@@ -1,2 +1,0 @@
-user.email rdrp1823@gmail.com
-user.name rivasprd
